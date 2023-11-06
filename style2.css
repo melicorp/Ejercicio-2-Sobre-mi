@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(208, 223, 238);
+}
+
+h1, h2, h4{
+    font-family: 'Sedgwick Ave Display', cursive;
+ }
+
+p{ 
+    color : rgb(78, 126, 216);
+}
